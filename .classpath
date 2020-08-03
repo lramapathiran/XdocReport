@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Lrama001/Documents/Projects/XdocReport/jar_files/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lrama001/Documents/Projects/XdocReport/jar_files/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lrama001/Documents/Projects/XdocReport/jar_files/fr.opensagres.xdocreport.converter-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lrama001/Documents/Projects/XdocReport/jar_files/fr.opensagres.xdocreport.core-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lrama001/Documents/Projects/XdocReport/jar_files/fr.opensagres.xdocreport.document.docx-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lrama001/Documents/Projects/XdocReport/jar_files/fr.opensagres.xdocreport.document.tools-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lrama001/Documents/Projects/XdocReport/jar_files/fr.opensagres.xdocreport.document-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lrama001/Documents/Projects/XdocReport/jar_files/fr.opensagres.xdocreport.template-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lrama001/Documents/Projects/XdocReport/jar_files/oro-2.0.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lrama001/Documents/Projects/XdocReport/jar_files/velocity-1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lrama001/Documents/Projects/XdocReport/jar_files/fr.opensagres.xdocreport.template.velocity-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lrama001/Documents/Projects/XdocReport/docx.converters-1.0.4-sample/docx.converters-1.0.4/libs/commons-codec-1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lrama001/Documents/Projects/XdocReport/docx.converters-1.0.4-sample/docx.converters-1.0.4/libs/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lrama001/Documents/Projects/XdocReport/docx.converters-1.0.4-sample/docx.converters-1.0.4/libs/fr.opensagres.xdocreport.itext.extension-1.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lrama001/Documents/Projects/XdocReport/docx.converters-1.0.4-sample/docx.converters-1.0.4/libs/itext-2.1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lrama001/Documents/Projects/XdocReport/docx.converters-1.0.4-sample/docx.converters-1.0.4/libs/ooxml-schemas-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lrama001/Documents/Projects/XdocReport/docx.converters-1.0.4-sample/docx.converters-1.0.4/libs/org.apache.poi.xwpf.converter.core-1.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lrama001/Documents/Projects/XdocReport/docx.converters-1.0.4-sample/docx.converters-1.0.4/libs/org.apache.poi.xwpf.converter.pdf-1.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lrama001/Documents/Projects/XdocReport/docx.converters-1.0.4-sample/docx.converters-1.0.4/libs/org.apache.poi.xwpf.converter.xhtml-1.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lrama001/Documents/Projects/XdocReport/docx.converters-1.0.4-sample/docx.converters-1.0.4/libs/poi-3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lrama001/Documents/Projects/XdocReport/docx.converters-1.0.4-sample/docx.converters-1.0.4/libs/poi-ooxml-3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lrama001/Documents/Projects/XdocReport/docx.converters-1.0.4-sample/docx.converters-1.0.4/libs/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lrama001/Documents/Projects/XdocReport/docx.converters-1.0.4-sample/docx.converters-1.0.4/libs/xml-apis-1.0.b2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lrama001/Documents/Projects/XdocReport/docx.converters-1.0.4-sample/docx.converters-1.0.4/libs/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="src" path="target/generated-sources/annotations">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="ignore_optional_problems" value="true"/>
+			<attribute name="m2e-apt" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="target/generated-test-sources/test-annotations">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="ignore_optional_problems" value="true"/>
+			<attribute name="m2e-apt" value="true"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
