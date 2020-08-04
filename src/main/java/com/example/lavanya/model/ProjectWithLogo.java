@@ -1,13 +1,9 @@
 package com.example.lavanya.model;
 
 import java.io.File;
-import java.io.InputStream;
-
-import com.example.lavanya.controller.MainController;
 
 import fr.opensagres.xdocreport.template.annotations.FieldMetadata;
 import fr.opensagres.xdocreport.template.annotations.ImageMetadata;
-import fr.opensagres.xdocreport.template.formatter.NullImageBehaviour;
 
 public class ProjectWithLogo extends ProjectReport {
 

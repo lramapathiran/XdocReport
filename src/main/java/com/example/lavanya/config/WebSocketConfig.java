@@ -1,4 +1,4 @@
-package config;
+package com.example.lavanya.config;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Configuration;
@@ -7,7 +7,7 @@ import org.springframework.web.socket.config.annotation.EnableWebSocketMessageBr
 import org.springframework.web.socket.config.annotation.StompEndpointRegistry;
 import org.springframework.web.socket.config.annotation.WebSocketMessageBrokerConfigurer;
 
-import interceptor.HttpHandshakeInterceptor;
+import com.example.lavanya.interceptor.HttpHandshakeInterceptor;
 
 @Configuration
 @EnableWebSocketMessageBroker
